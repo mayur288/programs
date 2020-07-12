@@ -6,6 +6,6 @@ class SayHello
 {
   public static function world()
   {
-    echo 'Hello, I am Mayur.' . PHP_EOL;
+    echo 'Hello, I am Mayur.<br>' . PHP_EOL;
   }
 }
