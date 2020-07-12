@@ -16,6 +16,9 @@
   "autoload": {
     "psr-4": {
       "Programs\\": "src/Programs/"
-    }
+    },
+    "files": [
+      "src/functions.php"
+    ]
   }
 }
